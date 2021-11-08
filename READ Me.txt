@@ -1,0 +1,8 @@
+The Neon Tetris.zip file contains the entire JavaFX Project.
+
+The four Java Classes (Controller.java, Form.java, Game.java, Main.java)
+can be placed into an existing JavaFX project to run it (also a for a quick look of the source file).
+
+I did not manage to make another .jar file sadly.
+
+Made by Nikolaos Katevas
